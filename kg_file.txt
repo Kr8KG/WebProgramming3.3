@@ -1,1 +1,2 @@
 This is KG's  file call it kg_file.txt
+Homework assignment
